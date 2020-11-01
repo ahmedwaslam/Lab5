@@ -1,7 +1,7 @@
 Lab5
 ================
 Author: Isabela Vieira
-Collaborators:  Christopher Tinevra, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Reed, Monica Martinez-Raga
+Collaborators: Christopher Tinevra, Akimawe Kadiri, Nicole Kerrison, Mostafa Ragheb, Charles Reed, Monica Martinez-Raga
 10/26/2020
 
 ``` r
